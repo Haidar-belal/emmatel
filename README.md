@@ -4,7 +4,7 @@ Emmatel Project is a work-in-progress
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/yourusername/emmatel-project.git`
+1. Clone the repository: `git clone https://github.com/Haidar-belal/emmatel.git`
 2. Navigate to the project directory: `cd emmatel`
 3. Install dependencies: `npm install`
 
